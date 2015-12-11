@@ -1,25 +1,32 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5cc56d8f-1627-4e91-ad95-ee1986b3e3aa++6981",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8C8C30B815C7636DFE21CA495E3E22A8D35FAA40",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
     "5cc56d8f-1627-4e91-ad95-ee1986b3e3aa++6981" : {
 
     }
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8C8C30B815C7636DFE21CA495E3E22A8D35FAA40" : 0,
     "5cc56d8f-1627-4e91-ad95-ee1986b3e3aa++6981" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CD0C2388-35E9-4730-9350-4669132876C6",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "5cc56d8f-1627-4e91-ad95-ee1986b3e3aa++6981" : "QuickUnify\/"
+    "8C8C30B815C7636DFE21CA495E3E22A8D35FAA40" : "KUAIYONGSDKDYDemo\/",
+    "5cc56d8f-1627-4e91-ad95-ee1986b3e3aa++6981" : "..\/.."
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "QuickUnifyPlatformDemo",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
-  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Quick\/QuickSDK\/DYSDK\/KUAIYONGSDK\/QuickUnifyPlatformDemo\/QuickUnifyPlatformDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "DYSDK\/KUAIYONGSDK\/QuickUnifyPlatformDemo\/QuickUnifyPlatformDemo.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.100.58\/project",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5cc56d8f-1627-4e91-ad95-ee1986b3e3aa++6981"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yuhaomingming\/KUAIYONGSDKDYDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8C8C30B815C7636DFE21CA495E3E22A8D35FAA40"
     }
   ]
 }
