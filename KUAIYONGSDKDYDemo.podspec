@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
                    A CocoaPods KUAIYONGSDKDYDemo
                    DESC
 
-  s.homepage     = "https://github.com/yuhaomingming/KUAIYONGSDKDYDemo"
+  s.homepage     = "https://github.com/yuhaomingming/KUAIYONGSDKDYDemo.git"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
   s.license      = "MIT"
@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
   # s.tvos.deployment_target = "9.0"
 
   s.source       = { :git => "https://github.com/yuhaomingming/KUAIYONGSDKDYDemo.git", :tag => "0.0.4" }
-  s.source_files  = "Common/Source/Demo/*.{h,m}"
+  s.source_files  = "Common/Source/Demo/*.{h,m}","Common/SDK/Platform/KUAIYONGSDK/DYFramework/**/*.h" 
   # s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
