@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "KUAIYONGSDKDYDemo"
-  s.version      = "0.0.8"
+  s.version      = "0.0.9"
   s.summary      = "A KUAIYONGSDKDYDemo."
   s.description  = <<-DESC
                    A CocoaPods KUAIYONGSDKDYDemo
@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.author             = { "于浩" => "351945755@qq.com" }
   s.platform     = :ios, "8.0"
   s.ios.deployment_target = "8.0"
-  s.source       = { :git => "https://github.com/yuhaomingming/KUAIYONGSDKDYDemo.git", :tag => "0.0.8" }
+  s.source       = { :git => "https://github.com/yuhaomingming/KUAIYONGSDKDYDemo.git", :tag => "0.0.9" }
   s.source_files  = "Common/Source/Demo/*.{h,m}"
   s.ios.vendored_frameworks = "Common/SDK/Platform/KUAIYONGSDK/DYFramework/QuickUnifyPlatform.framework"
   s.public_header_files = "Common/SDK/Platform/KUAIYONGSDK/DYFramework/**/*.h"
