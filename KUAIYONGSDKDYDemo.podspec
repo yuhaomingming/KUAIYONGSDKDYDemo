@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/yuhaomingming/KUAIYONGSDKDYDemo"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
-  s.license      = 'MIT'
+  s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
 
   s.author             = { "于浩" => "351945755@qq.com" }
@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
   # s.tvos.deployment_target = "9.0"
 
   s.source       = { :git => "https://github.com/yuhaomingming/KUAIYONGSDKDYDemo.git", :tag => "0.0.1" }
-  s.source_files  = "/Common/Source/Demo","/Common/Source/Demo/*.{h,m}"
+  s.source_files  = "Common/Source/Demo","Common/Source/Demo/*.{h,m}"
   # s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
