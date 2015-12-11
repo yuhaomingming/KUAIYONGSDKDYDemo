@@ -11,9 +11,9 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "8.0"
   s.ios.deployment_target = "8.0"
   s.source       = { :git => "https://github.com/yuhaomingming/KUAIYONGSDKDYDemo.git", :tag => "0.0.5" }
-  s.source_files  = "Common/Source/Demo/*.{h}"
+  s.source_files  = "Common/Source/Demo/*.h"
   s.ios.vendored_frameworks = "Common/SDK/Platform/KUAIYONGSDK/DYFramework/QuickUnifyPlatform.framework"
-  s.public_header_files = "Common/*.h"
+  s.public_header_files = "Common/Source/Demo/*.h"
   s.requires_arc            = true
   s.pod_target_xcconfig = { "OTHER_LDFLAGS" => "-lObjC" }
 
