@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "KUAIYONGSDKDYDemo"
-  s.version      = "0.0.4"
+  s.version      = "0.0.5"
   s.summary      = "A KUAIYONGSDKDYDemo."
   s.description  = <<-DESC
                    A CocoaPods KUAIYONGSDKDYDemo
@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
   # s.watchos.deployment_target = "2.0"
   # s.tvos.deployment_target = "9.0"
 
-  s.source       = { :git => "https://github.com/yuhaomingming/KUAIYONGSDKDYDemo.git", :tag => "0.0.4" }
+  s.source       = { :git => "https://github.com/yuhaomingming/KUAIYONGSDKDYDemo.git", :tag => "0.0.5" }
   s.source_files  = "Common/Source/Demo/*.{h,m}","Common/SDK/Platform/KUAIYONGSDK/DYFramework/**/*.h" 
   # s.exclude_files = "Classes/Exclude"
 
