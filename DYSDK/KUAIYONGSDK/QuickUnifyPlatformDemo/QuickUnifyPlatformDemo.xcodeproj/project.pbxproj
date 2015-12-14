@@ -48,7 +48,6 @@
 		661AC2B71BE0A12300DCBFAA /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		661AC2B81BE0A12300DCBFAA /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		661AC2B91BE0A12300DCBFAA /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		66534D561C1AD4C80032704B /* ViewController1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController1.h; sourceTree = "<group>"; };
 		6666EF441BE739050026B3F6 /* QuickManifest.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = QuickManifest.plist; sourceTree = "<group>"; };
 		6666EF471BE739050026B3F6 /* AlipaySDK.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = AlipaySDK.bundle; sourceTree = "<group>"; };
 		6666EF481BE739050026B3F6 /* xsdkFramework.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = xsdkFramework.framework; sourceTree = "<group>"; };
@@ -112,7 +111,6 @@
 		661AC0841BE0A12200DCBFAA /* Common */ = {
 			isa = PBXGroup;
 			children = (
-				66534D561C1AD4C80032704B /* ViewController1.h */,
 				661AC0851BE0A12200DCBFAA /* SDK */,
 				661AC2B01BE0A12300DCBFAA /* Source */,
 			);
