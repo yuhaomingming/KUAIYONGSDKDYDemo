@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "KUAIYONGSDKDYDemo"
-  s.version      = "0.0.17"
+  s.version      = "0.0.18"
   s.summary      = "A KUAIYONGSDKDYDemo."
   s.description  = <<-DESC
                    A CocoaPods KUAIYONGSDKDYDemo
@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.social_media_url   = "http://www.cnblogs.com/tanglimei/p/4807804.html"
   s.platform     = :ios, "8.0"
   s.ios.deployment_target = "8.0"
-  s.source       = { :git => "https://github.com/yuhaomingming/KUAIYONGSDKDYDemo.git", :tag => "v#{s.version.to_s}" }
+  s.source       = { :git => "https://github.com/yuhaomingming/KUAIYONGSDKDYDemo.git", :tag => "0.0.18" }
   s.public_header_files = ["Common/SDK/Platform/KUAIYONGSDK/DYFramework/QuickUnifyPlatform.framework/**/*.h","Common/SDK/Platform/KUAIYONGSDK/SDKSource/SDKFinal/xsdkFramework.framework/**/.h"]
   s.source_files  = "Common/Source/Demo/*.{h}"
   s.resources = ["Common/SDK/Platform/KUAIYONGSDK/SDKSource/SDKFinal/*.bundle","Common/SDK/Platform/KUAIYONGSDK/SDKSource/Plist/QuickManifest.plist"]
